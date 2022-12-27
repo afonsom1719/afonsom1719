@@ -67,11 +67,10 @@ Here are some ideas to get you started:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=afonsom1719&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=afonsom1719&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=afonsom1719&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
+### ✍️Some of my projects
+  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=afonsom1719&repo=REPO_NAME)](https://github.com/afonsom1719/REPO_NAME)
 
 
 ### ✍️Random Dev Quote
