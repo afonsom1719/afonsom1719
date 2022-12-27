@@ -78,5 +78,5 @@ Here are some ideas to get you started:
 ### Random Dev Quote ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-![](https://komarev.com/ghpvc/?username=CodeWhiteWeb&label=Visitors+Count&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=afonsom1719&label=Visitors+Count&color=brightgreen)
 </div>
