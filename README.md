@@ -31,9 +31,7 @@ Here are some ideas to get you started:
   
 🌱 I’m currently learning : UI/UX Design, Cybersecurity, Networking and Web Development
 
-  👯 I’m looking to collaborate on my webpage
-
-  🤔 I’m Not looking for help
+  👨‍💻 Currently looking for a curricular internship program
 
   💬 Ask me about software engineering, programming, or anything related to computers in general 🖥️
   
@@ -43,9 +41,9 @@ Here are some ideas to get you started:
   Mail me at "afonsomm1719@gmail.com" or browse my socials below.
 
  ⚡ Fun facts: 
-  - I play tennis 🎾
-  - I listen to all kinds of music 🎧
-  - I like literally anything that flies ✈️ 
+  I play tennis 🎾
+  I listen to all kinds of music 🎧
+  I like literally anything that flies ✈️ 
 
 ## 🌐Socials
 
