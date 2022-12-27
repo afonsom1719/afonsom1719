@@ -68,8 +68,7 @@ Here are some ideas to get you started:
   
 ## Some of my projects 📁
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=afonsom1719&repo=FEUP-Jobs)](https://github.com/afonsom1719/FEUP-Jobs)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=afonsom1719&repo=PokerBomb)](https://github.com/afonsom1719/PokerBomb)
+Take a look at the pinned projects section below! You are also welcome to browse my profile.
 
 ## Random Dev Quote ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
