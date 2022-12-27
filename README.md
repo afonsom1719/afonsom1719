@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working on college projects in various areas.
+🔭 I’m currently working on college projects in various areas
   
 🌱 I’m currently learning : UI/UX Design, Cybersecurity, Networking and Web Development
 
