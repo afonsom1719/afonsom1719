@@ -68,7 +68,7 @@ Here are some ideas to get you started:
   
 ## Some of my projects 📁
   
-Take a look at the pinned projects section below! You are also welcome to browse my profile.
+Take a look at the __pinned projects__ section below! You are also welcome to browse my profile.
 
 ## Random Dev Quote ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
