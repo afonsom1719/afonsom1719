@@ -68,7 +68,7 @@ Here are some ideas to get you started:
   
 ## Some of my projects 📁
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=afonsom1719&repo=REPO_NAME)](https://github.com/afonsom1719/REPO_NAME)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=afonsom1719&repo=PokerBomb)](https://github.com/afonsom1719/PokerBomb)
 
 ## Random Dev Quote ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
