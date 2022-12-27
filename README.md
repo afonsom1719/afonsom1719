@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ---
 <div align="center">
   
-# 💫About Me :
+## About me 👨‍🎓:
 🔭 I’m currently working on college projects in various areas
   
 🌱 I’m currently learning : UI/UX Design, Cybersecurity, Networking and Web Development
@@ -45,12 +45,12 @@ Here are some ideas to get you started:
   I listen to all kinds of music 🎧
   I like literally anything that flies ✈️ 
 
-## 🌐Socials
+## Socials 🌐
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/afonso-martins-) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
 
-# 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+# Tech Stack 💻 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
@@ -68,12 +68,14 @@ Here are some ideas to get you started:
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   
-### ✍️Some of my projects
+## Some of my projects 📁
   
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=afonsom1719&repo=REPO_NAME)](https://github.com/afonsom1719/REPO_NAME)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=afonsom1719&repo=REPO_NAME)](https://github.com/afonsom1719/REPO_NAME)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=afonsom1719&repo=REPO_NAME)](https://github.com/afonsom1719/REPO_NAME)
 
 
-### ✍️Random Dev Quote
+### Random Dev Quote ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ![](https://komarev.com/ghpvc/?username=CodeWhiteWeb&label=Visitors+Count&color=brightgreen)
