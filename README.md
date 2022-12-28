@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   🧠 “If debugging is the process of removing software bugs, then programming must be the process of putting them in.” ― Edsger W. Dijkstra
 
   📫 How to reach me:  
-  Mail me at "afonsomm1719@gmail.com" or browse my socials below.
+  Mail me at afonsomm1719@gmail.com or browse my socials below.  [my email](mailto:afonsomm1719@gmail.com)
 
  ⚡ Fun facts: 
   I play tennis 🎾
