@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Afonso;I+am+an+Engineering+student+%3C3"></a>
+  <a href="https://github.com/afonsom1719"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Afonso;I+am+an+Engineering+student+%3C3"></a>
 </p>
 
 ---
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   🧠 “If debugging is the process of removing software bugs, then programming must be the process of putting them in.” ― Edsger W. Dijkstra
 
   📫 How to reach me:  
-  Mail me [here](mailto:afonsomm1719@gmail.com) or browse my socials below.  
+  Mail me [here](mailto:afonso.jfm@outlook.pt) or browse my socials below.  
 
  ⚡ Fun facts: 
   I play tennis 🎾
