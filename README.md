@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   
 🌱 I’m currently learning : UI/UX Design, Cybersecurity, Networking and Web Development
 
-  👨‍💻 Currently doing a curricular internship at FABAMAQ
+  👨‍💻 Currently studying at FEUP
 
   💬 Ask me about software engineering, programming, or anything related to computers in general 🖥️
   
